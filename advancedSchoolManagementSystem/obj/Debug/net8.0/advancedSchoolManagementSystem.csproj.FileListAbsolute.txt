@@ -1,0 +1,14 @@
+C:\c#\advancedSchoolManagementSystem\bin\Debug\net8.0\advancedSchoolManagementSystem.exe
+C:\c#\advancedSchoolManagementSystem\bin\Debug\net8.0\advancedSchoolManagementSystem.deps.json
+C:\c#\advancedSchoolManagementSystem\bin\Debug\net8.0\advancedSchoolManagementSystem.runtimeconfig.json
+C:\c#\advancedSchoolManagementSystem\bin\Debug\net8.0\advancedSchoolManagementSystem.dll
+C:\c#\advancedSchoolManagementSystem\bin\Debug\net8.0\advancedSchoolManagementSystem.pdb
+C:\c#\advancedSchoolManagementSystem\obj\Debug\net8.0\advancedSchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\advancedSchoolManagementSystem\obj\Debug\net8.0\advancedSchoolManagementSystem.AssemblyInfoInputs.cache
+C:\c#\advancedSchoolManagementSystem\obj\Debug\net8.0\advancedSchoolManagementSystem.AssemblyInfo.cs
+C:\c#\advancedSchoolManagementSystem\obj\Debug\net8.0\advancedSchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\c#\advancedSchoolManagementSystem\obj\Debug\net8.0\advancedSchoolManagementSystem.dll
+C:\c#\advancedSchoolManagementSystem\obj\Debug\net8.0\refint\advancedSchoolManagementSystem.dll
+C:\c#\advancedSchoolManagementSystem\obj\Debug\net8.0\advancedSchoolManagementSystem.pdb
+C:\c#\advancedSchoolManagementSystem\obj\Debug\net8.0\advancedSchoolManagementSystem.genruntimeconfig.cache
+C:\c#\advancedSchoolManagementSystem\obj\Debug\net8.0\ref\advancedSchoolManagementSystem.dll
