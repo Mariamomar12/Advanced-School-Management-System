@@ -285,3 +285,13 @@ Color-coded output improves readability.
 Errors and exceptions are gracefully handled.
 
 The UI is kept clean, spaced, and well-organized.
+---
+
+---
+
+### Created by
+
+This project was created and fully developed by **Mariam Omar** as part of the *Basics Camp*.  
+It reflects a strong understanding of Object-Oriented Programming and SOLID principles,  
+with a focus on clean structure, consistent styling, and user-friendly interaction through the console.  
+Every part of the system—from design to implementation—was carefully built with attention to detail, clarity, and best practices.
