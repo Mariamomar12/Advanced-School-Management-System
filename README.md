@@ -285,7 +285,6 @@ Color-coded output improves readability.
 Errors and exceptions are gracefully handled.
 
 The UI is kept clean, spaced, and well-organized.
----
 
 ---
 
